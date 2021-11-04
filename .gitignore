@@ -1,0 +1,9 @@
+## MacOS Files
+.DS_STORE/
+
+## VSCODE Files
+.vscode/
+
+## Object/Binary Files
+bin/
+obj/
